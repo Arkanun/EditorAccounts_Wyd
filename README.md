@@ -10,7 +10,11 @@ https://www.webcheats.com.br/topic/2295586-editor-editor-de-contas-wyd/
 ⟣──────〈 CRÉDITOS 〉──────⟢
 Apenas atualizei os codigos, o programa está no repositorio: https://github.com/DougllasLima/W2-ACCOUNT-EDITOR
 Creditos:
+
 → Jumpper (Douglas)
+
 → SeiTbNao
+
 → Yescool (Base)
+
 
